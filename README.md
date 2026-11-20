@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Rachana Trivedi 👋
 
-<!--
-**RachanaTrivedi-HR/RachanaTrivedi-HR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HR Professional | IT Recruitment & HR Executive 📍 Ahmedabad, Gujarat, India
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HR professional with 4.5+ years of experience in full-cycle IT recruitment, talent acquisition, and HR operations. I hire for technical roles from entry to senior level and focus on a great candidate experience.
+
+Experience
+Sr. HR Executive, eSparkBiz Technologies (May 2023 – Jun 2026)
+Recruitment Lead, Addrec Solutions Pvt. Ltd. (Jun 2021 – Dec 2022)
+Talent Acquisition Intern, Pinnacle Global Service (May 2020 – Jun 2020)
+
+Skills
+Full-Cycle Hiring • Technical Screening • Pipeline Management • HRMS • Employee Engagement • Onboarding
+
+Tools: Zoho Recruit, iSmart, Naukri, Indeed, Microsoft Office, Google Suite
+
+Education
+PGDM (HR & IT), Narayan Business School (2021)
+Bachelor of Business Management, MKB University (2018)
+
+Certifications
+AI in HR (Keka) • HR Analytics (Simplilearn) • Crafting Payroll in India (Keka) • Generative AI for HR (Coursera)
+
+Connect
+ https://linkedin.com/in/rachanatrivedi-52815b191
